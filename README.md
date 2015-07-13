@@ -6,7 +6,7 @@ Glossary Bot maintains a glossary of terms created by its users, and responds to
 ![DemoGif](static/gloss-bot-demo.gif)
 
 #### Requirements
-Glossary Bot is written in Python as is know to work with version 2.7.  It will not run as written with Python versions 3.3.
+Glossary Bot is written in Python and is known to work with version 2.7.  It will not run as written with Python versions 3.3.
 
 #### Install
 Glossary Bot is a [Flask](http://flask.pocoo.org/) app built to run on [Heroku](https://heroku.com/).
